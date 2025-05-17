@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Text;
 using System.Windows.Forms;
+using SQLitePCL;
 
 namespace FilterStockTools
 {
@@ -15,7 +16,7 @@ namespace FilterStockTools
             Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MainForm());
         }
     }
 }
