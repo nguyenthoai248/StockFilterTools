@@ -95,3 +95,4 @@ E:\ProgramingWorkspace\StockTools\Thang\FilterStockTools\bin\Debug\System.Thread
 E:\ProgramingWorkspace\StockTools\Thang\FilterStockTools\bin\Debug\System.ValueTuple.xml
 E:\ProgramingWorkspace\StockTools\Thang\FilterStockTools\bin\Debug\SQLitePCLRaw.batteries_v2.dll
 E:\ProgramingWorkspace\StockTools\Thang\FilterStockTools\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\ProgramingWorkspace\StockTools\Thang\FilterStockTools\obj\Debug\FilterStockTools.exe.config

@@ -66,9 +66,9 @@ namespace FilterStockTools
                 return;
             }
 
-            //await LoadDataAsync(symbol);
-            var sync = new Services.SyncService();
-            await sync.SyncAllData();
+            await LoadDataAsync(symbol);
+            //var sync = new Services.SyncService();
+            //await sync.SyncAllData();
         }
 
         private async Task LoadDataAsync(string symbol)
